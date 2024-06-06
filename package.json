@@ -1,0 +1,19 @@
+{
+  "name": "nodejs02",
+  "version": "0.0.1",
+  "description": "Esto es un programa de prueba",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codo-a-Codo-4-0-Comision-24122/nodejs02.git"
+  },
+  "author": "Alejandro Medici",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Codo-a-Codo-4-0-Comision-24122/nodejs02/issues"
+  },
+  "homepage": "https://github.com/Codo-a-Codo-4-0-Comision-24122/nodejs02#readme"
+}
